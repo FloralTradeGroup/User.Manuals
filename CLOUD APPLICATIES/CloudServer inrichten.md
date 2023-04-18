@@ -28,7 +28,7 @@ Na het downloaden installeert u de app.
 
 |Stap|Uitleg|
 |:-:|:--|
-|**1**|Open de app en klik op de **Login** knop.<details><summary><b>Klik hier voor uw voorbeeld!</b></summary><img src=".Cash & Carry App/image1.png" height="400px"></details>|
+|**1**|Open de app en klik op de **Login** knop.<details><summary><b>Klik hier voor uw voorbeeld!</b></summary><img src="![image](https://user-images.githubusercontent.com/107180033/232741963-bc5af152-3e2d-4d29-bccf-e83697934694.png)" height="400px"></details>|
 |**2**|Klik op het hamburgermenu rechtsbovenin het scherm.<details><summary><b>Klik hier voor uw voorbeeld!</b></summary><img src=".Cash & Carry App/image9.png" height="400px"></details>|
 |**3**|Vul in dit scherm de API url in.<details><summary><b>Klik hier voor uw voorbeeld!</b></summary><img src=".Cash & Carry App/image3.png" height="400px"></details>|
 |**4**|Log nu in met uw C&C systeem gebruiker.<details><summary><b>Klik hier voor uw voorbeeld!</b></summary><img src=".Cash & Carry App/image2.png" height="400px"></details>|
