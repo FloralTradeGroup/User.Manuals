@@ -5,6 +5,7 @@ Dit document beschrijft het inrichten/instellen van de API/CloudServer t.b.v. cl
 ## Inhoudsopgave
 
 [Inrichten CloudServer](#inrichten-cloudserver)  
+[Handige tips](#handige-tips)
 
 ## Inrichten CloudServer
 
@@ -17,3 +18,9 @@ Dit document beschrijft het inrichten/instellen van de API/CloudServer t.b.v. cl
 |**5**|Zorg ervoor dat de CloudServerMap bekend is in Florisoft. Deze kan je toevoegen via de systeeminstellingen.<details><summary><b>Klik hier voor voorbeeld</b></summary><img src=".Handleiding/image4.png" height="400px"></details>|
 |**6**|De Instance directory moet ge-shared worden zodat de map te benaderen is vanaf de server waarop Florisoft actief is. Geef de gebruiker je gekoppeld heb bij de Application Pool de Read/Write rechten.<details><summary><b>Klik hier voor voorbeeld</b></summary><img src=".Handleiding/image5.png" height="400px"></details>|
 |**7**|Als je de stappen goed heb doorlopen en je de URL opvraagt via je browser moet je dit scherm krijgen<details><summary><b>Klik hier voor voorbeeld</b></summary><img src=".Handleiding/image6.png" height="400px"></details>|
+
+## Handige tips
+
+Op de FTG-WEB02, of andere cloudserver, worden de log files weggeschreven op onderstaande locatie:</br>
+
+C:\Windows\Temp\Florisoft\Florisoft.Cloud.Server
