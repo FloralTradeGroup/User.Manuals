@@ -28,8 +28,8 @@ Na het downloaden installeert u de app.
 
 |Stap|Uitleg|
 |:-:|:--|
-|**1**|Open de app en klik op de **Login** knop.<details><summary><b>Klik hier voor uw voorbeeld!</b></summary><img src=".Handleiding/image.png" height="400px"></details>|
-|**2**|Klik op het hamburgermenu rechtsbovenin het scherm.<details><summary><b>Klik hier voor uw voorbeeld!</b></summary><img src=".Cash & Carry App/image9.png" height="400px"></details>|
+|**1**|Open Internet Information Services (IIS) en klik op de **Add Application Pool** knop rechts bovenin. Vul de naam in van de cloud applicatie en klik op OK.<details><summary><b>Klik hier voor voorbeeld!</b></summary><img src=".Handleiding/image.png" height="400px"></details>|
+|**2**|De Application Pool is aangemaakt.<details><summary><b>Klik hier voor uw voorbeeld!</b></summary><img src=".Handleiding/image1.png" height="400px"></details>|
 |**3**|Vul in dit scherm de API url in.<details><summary><b>Klik hier voor uw voorbeeld!</b></summary><img src=".Cash & Carry App/image3.png" height="400px"></details>|
 |**4**|Log nu in met uw C&C systeem gebruiker.<details><summary><b>Klik hier voor uw voorbeeld!</b></summary><img src=".Cash & Carry App/image2.png" height="400px"></details>|
 |**5**|Vul nu uw verkoperscode in om in te loggen met uw verkoper.<details><summary><b>Klik hier voor uw voorbeeld!</b></summary><img src=".Cash & Carry App/image4.png" height="400px"></details>|
